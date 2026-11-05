@@ -21,6 +21,7 @@ export const siteConfig = {
     { label: 'IPO Allotment', href: '/ipo-allotment' },
     { label: 'Learn', href: '/learn' },
     { label: 'Calculators', href: '/calculators' },
+    { label: 'System Status', href: '/system-status' },
   ],
 } as const
 

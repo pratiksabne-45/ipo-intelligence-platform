@@ -11,6 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/ipo-allotment',
     '/learn',
     '/calculators',
+    '/system-status',
   ]
 
   return routes.map((route) => ({
